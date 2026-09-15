@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Generated outputs. The one figure the README shows is committed by hand.
+outputs/*
+!outputs/landcover_demo.png
+
+# Real imagery and models are large and not redistributable from here.
+data/
+*.tif
+*.joblib
+*.pkl
+.DS_Store
