@@ -1,5 +1,9 @@
 # sentinel2-landcover
 
+> **Built with AI assistance.** The code in this repository was written with an AI
+> coding assistant, not hand-written from scratch. It is published as a working tool
+> and a learning resource, not as a portfolio piece claiming sole authorship.
+
 Land cover classification from Sentinel-2, supervised with a random forest or
 unsupervised with k-means, using a **spatial-block train/test split** and full
 per-class accuracy assessment.
